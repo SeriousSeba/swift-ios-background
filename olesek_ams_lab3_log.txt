@@ -1,0 +1,70 @@
+[0.04 s] 1 Download started /wp-content/uploads/2018/12/2018-2019_klasowe_1b.jpg
+[0.04 s] 2 Download started /wikipedia/commons/c/c8/Valmy_Battle_painting.jpg
+[0.04 s] 3 Download started /wikipedia/commons/thumb/d/d2/New_LA_Infobox_Pic_Montage_5.jpg/800px-New_LA_Infobox_Pic_Montage_5.jpg
+[0.04 s] 4 Download started /wikipedia/commons/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[0.05 s] 5 Download started /wikipedia/commons/3/36/Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[0.26 s] Downloaded 10 % of 2018-2019_klasowe_1b.jpg
+[0.27 s] Downloaded 20 % of 2018-2019_klasowe_1b.jpg
+[0.38 s] Downloaded 80 % of 2018-2019_klasowe_1b.jpg
+[0.42 s] Downloaded 100 % of 2018-2019_klasowe_1b.jpg
+[0.45 s] download finished2018-2019_klasowe_1b.jpg
+[0.46 s] Downloaded file can be found in /Users/arek/Library/Developer/CoreSimulator/Devices/16D7E320-EE54-4963-865F-372D9178D4C3/data/Containers/Data/Application/0C1937E1-2BD1-42FD-968A-F688C420AAE1/Documents/2018-2019_klasowe_1b.jpg
+[0.46 s] Starting face detection for 2018-2019_klasowe_1b.jpg
+2020-01-26 22:48:11.736155+0100 lab3[2712:88078] Metal API Validation Enabled
+[0.51 s] Downloaded 10 % of 800px-New_LA_Infobox_Pic_Montage_5.jpg
+[0.54 s] Downloaded 20 % of 800px-New_LA_Infobox_Pic_Montage_5.jpg
+[1.03 s] Downloaded 40 % of 800px-New_LA_Infobox_Pic_Montage_5.jpg
+[1.14 s] Downloaded 80 % of 800px-New_LA_Infobox_Pic_Montage_5.jpg
+[1.28 s] Downloaded 100 % of 800px-New_LA_Infobox_Pic_Montage_5.jpg
+[1.29 s] download finished800px-New_LA_Infobox_Pic_Montage_5.jpg
+[1.29 s] Downloaded file can be found in /Users/arek/Library/Developer/CoreSimulator/Devices/16D7E320-EE54-4963-865F-372D9178D4C3/data/Containers/Data/Application/0C1937E1-2BD1-42FD-968A-F688C420AAE1/Documents/800px-New_LA_Infobox_Pic_Montage_5.jpg
+[1.32 s] Starting face detection for 800px-New_LA_Infobox_Pic_Montage_5.jpg
+[3.35 s] Downloaded 10 % of Valmy_Battle_painting.jpg
+[3.52 s] Found 0 faces in 800px-New_LA_Infobox_Pic_Montage_5.jpg.
+[3.53 s] Task 800px-New_LA_Infobox_Pic_Montage_5.jpg finished, 4 tasks remaining
+[4.94 s] Downloaded 20 % of Valmy_Battle_painting.jpg
+[6.73 s] Downloaded 10 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[6.90 s] Downloaded 30 % of Valmy_Battle_painting.jpg
+[8.54 s] Found 26 faces in 2018-2019_klasowe_1b.jpg.
+[8.56 s] Task 2018-2019_klasowe_1b.jpg finished, 3 tasks remaining
+[9.49 s] Downloaded 40 % of Valmy_Battle_painting.jpg
+[11.91 s] Downloaded 20 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[12.30 s] Downloaded 50 % of Valmy_Battle_painting.jpg
+[12.52 s] Downloaded 10 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[13.95 s] Downloaded 60 % of Valmy_Battle_painting.jpg
+[14.43 s] Downloaded 70 % of Valmy_Battle_painting.jpg
+[14.68 s] Downloaded 30 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[15.97 s] Downloaded 80 % of Valmy_Battle_painting.jpg
+[17.77 s] Downloaded 90 % of Valmy_Battle_painting.jpg
+[19.60 s] Downloaded 40 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[20.12 s] Downloaded 100 % of Valmy_Battle_painting.jpg
+[20.14 s] download finishedValmy_Battle_painting.jpg
+[20.15 s] Downloaded file can be found in /Users/arek/Library/Developer/CoreSimulator/Devices/16D7E320-EE54-4963-865F-372D9178D4C3/data/Containers/Data/Application/0C1937E1-2BD1-42FD-968A-F688C420AAE1/Documents/Valmy_Battle_painting.jpg
+[20.15 s] Starting face detection for Valmy_Battle_painting.jpg
+[21.01 s] Downloaded 20 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[22.07 s] Downloaded 50 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[24.30 s] Found 0 faces in Valmy_Battle_painting.jpg.
+[24.30 s] Task Valmy_Battle_painting.jpg finished, 2 tasks remaining
+[26.38 s] Downloaded 60 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[27.90 s] Downloaded 30 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[28.99 s] Downloaded 70 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[32.48 s] Downloaded 80 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[34.44 s] Downloaded 40 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[35.37 s] Downloaded 90 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[38.92 s] Downloaded 100 % of Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[38.95 s] download finishedQuentin_Matsys_-_A_Grotesque_old_woman.jpg
+[38.95 s] Downloaded file can be found in /Users/arek/Library/Developer/CoreSimulator/Devices/16D7E320-EE54-4963-865F-372D9178D4C3/data/Containers/Data/Application/0C1937E1-2BD1-42FD-968A-F688C420AAE1/Documents/Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[38.96 s] Starting face detection for Quentin_Matsys_-_A_Grotesque_old_woman.jpg
+[41.02 s] Downloaded 50 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[43.55 s] Found 0 faces in Quentin_Matsys_-_A_Grotesque_old_woman.jpg.
+[43.56 s] Task Quentin_Matsys_-_A_Grotesque_old_woman.jpg finished, 1 tasks remaining
+[45.64 s] Downloaded 60 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[49.50 s] Downloaded 70 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[53.82 s] Downloaded 80 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[56.39 s] Downloaded 90 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[60.57 s] Downloaded 100 % of Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[60.61 s] download finishedPetrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[60.62 s] Downloaded file can be found in /Users/arek/Library/Developer/CoreSimulator/Devices/16D7E320-EE54-4963-865F-372D9178D4C3/data/Containers/Data/Application/0C1937E1-2BD1-42FD-968A-F688C420AAE1/Documents/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[60.62 s] Starting face detection for Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg
+[77.03 s] Found 1 faces in Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg.
+[77.04 s] Task Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg finished, All tasks finished!

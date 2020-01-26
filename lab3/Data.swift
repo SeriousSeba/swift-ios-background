@@ -10,8 +10,7 @@ import Foundation
 
 struct Urls {
     
-    static let urls = ["https://dabrowski37lo.edu.pl/wp-content/uploads/2018/12/2018-2019_klasowe_1b.jpg"
-        ,"https://upload.wikimedia.org/wikipedia/commons/c/c8/Valmy_Battle_painting.jpg"
+    static let urls = ["https://upload.wikimedia.org/wikipedia/commons/c/c8/Valmy_Battle_painting.jpg"
         ,"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/New_LA_Infobox_Pic_Montage_5.jpg/800px-New_LA_Infobox_Pic_Montage_5.jpg"
         ,"https://upload.wikimedia.org/wikipedia/commons/0/06/Master_of_Flémalle_-_Portrait_of_a_Fat_Man_-_Google_Art_Project_(331318).jpg"
         ,"https://upload.wikimedia.org/wikipedia/commons/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg"
